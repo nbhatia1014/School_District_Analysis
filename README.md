@@ -1,2 +1,19 @@
-# School_District_Analysis
-School district analysis with Python
+# Overview
+
+# Results
+
+## District Summary:
+
+## School Summary:
+
+## Math Summary
+
+## Reading Summary:
+
+## School Spending
+
+## School Size
+
+## School Type
+
+#Summary:
