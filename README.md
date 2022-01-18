@@ -10,7 +10,21 @@ Module Image:
 Challenge Image:
 ![This is an image](https://github.com/nbhatia1014/School_District_Analysis/blob/main/Images/Challenge_District.PNG)
 
-Shown above are the Module and the Challenge District Comparison. If you notice, we keep the number of students the same, but we have updated the values in the other columns. This is due to the fact we drop the 9th Grade Class from Thomas High School for some of the columns that include finding the averages. When comparing the Module anbd Challange items, the averages for the 
+Shown above are the Module and the Challenge District Comparison. If you notice, we keep the number of students the same, but we have updated the values in the other columns. This is due to the fact we drop the 9th Grade Class from Thomas High School for some of the columns that include finding the averages. When comparing the Module anbd Challange items, the averages for the passing grades have been decreased to account for the subtraction of the 9th grade class.
+
+## Top 5:
+Module Image:
+![This is an image](https://github.com/nbhatia1014/School_District_Analysis/blob/main/Images/Module_Top.PNG)
+
+Challenge Image:
+![This is an image](https://github.com/nbhatia1014/School_District_Analysis/blob/main/Images/Challenge_Top.PNG)
+
+## Bottom 5:
+Module Image:
+![This is an image](https://github.com/nbhatia1014/School_District_Analysis/blob/main/Images/Module_Bottom.PNG)
+
+Challenge Image:
+![This is an image](https://github.com/nbhatia1014/School_District_Analysis/blob/main/Images/Challenge_Bottom.PNG)
 
 ## School Summary:
 
